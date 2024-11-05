@@ -1,8 +1,7 @@
 # FinPrint
 
-A simple Streamlit app template for you to modify!
 
-Use the web-browser site [here](https://finprint.streamlit.app/)
+Use FinPrint in your web-browser [here](https://finprint.streamlit.app/)
 
 ### How to run it on your own machine
 
